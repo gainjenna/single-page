@@ -1,0 +1,21 @@
+{
+  "name": "jenna",
+  "version": "1.0.0",
+  "description": "single-page",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jenna",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gainjenna/single-page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gainjenna/single-page/issues"
+  },
+  "homepage": "https://github.com/gainjenna/single-page#readme"
+}

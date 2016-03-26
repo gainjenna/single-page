@@ -1,0 +1,25 @@
+{
+  "name": "jenna",
+  "description": "single-page",
+  "main": "index.js",
+  "authors": [
+    "jenna"
+  ],
+  "license": "ISC",
+  "homepage": "http://github.com/gainjenna/single-page",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
